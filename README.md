@@ -15,6 +15,11 @@ Stop Watch with ability to ( resume / reset ) or reset - AVR Architecture
 - External Interrupts
 - Timer1 Interrupt(CTC mode)
 - Digital input/output
+
+## Tools
+- Eclipse
+- Proteus
+
 ## Demo
 link: https://youtu.be/ggg5ILhRGtc
 
