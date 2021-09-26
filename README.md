@@ -1,5 +1,5 @@
 # Stop-Watch
-Stop Watch with ability to ( resume / reset ) or reset - AVR Architecture
+Stop Watch with ability to ( resume / pause ) or reset - AVR Architecture
 
 ![image from program](https://github.com/abdelrahman99999/Stop-Watch/blob/main/SceenShots/screen2.png?raw=true)
 
